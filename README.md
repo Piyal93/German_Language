@@ -3,7 +3,7 @@ This is a 100 days challenge for learning German
 
 From tomorrow, I will be statring to write 10 german words everyday.
 
-Day 1: (16/07/2020)
+All the words are found in the Word_list.md
 
 
 
